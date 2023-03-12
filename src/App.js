@@ -1,10 +1,9 @@
 import "./App.css";
-import Application from "./Lab1/Application";
-
+import Feedback from "./Exercise/Feedback";
 function App() { 
   return ( 
-    <div>
-      <Application/>
+    <div className="App"> 
+      <Feedback/>
     </div> 
   ); 
 } 
