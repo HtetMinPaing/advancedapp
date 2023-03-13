@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import "../Lab2/Form.css"
 
 const Feedback = () => {
 
